@@ -1,216 +1,321 @@
-# 👋 Hi, I'm Sumit Satpute
+<div align="center">
 
-### 🐍 Python & Django Developer | Backend & Full-Stack Developer
+# 👋 Hey, I'm **Sumit Satpute**
 
-I’m a passionate **Python & Django Developer** focused on building secure, scalable, and user-friendly web applications and REST APIs.
+### 🐍 Python & Django Developer · Backend & Full-Stack Developer
 
-I enjoy turning ideas into real-world applications using **Python, Django, Django REST Framework, SQL, APIs, and modern web technologies**.
+**Building clean, scalable & real-world web applications with Python.**
 
----
+<br/>
 
-## 🚀 About Me
+<a href="https://my-portfolio-sumit-1104.vercel.app">
+  <img src="https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Website-000000?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="https://github.com/Sumit-1104">
+  <img src="https://img.shields.io/badge/GitHub-Sumit--1104-181717?style=for-the-badge&logo=github" />
+</a>
 
-* 💻 Python & Django Developer
-* 🔧 Experienced in building **Django Web Applications & REST APIs**
-* 🔐 Working with **JWT Authentication & Role-Based Access**
-* 🗄️ Database integration using **SQL**
-* 🌐 Interested in **Backend & Full-Stack Development**
-* 🤖 Exploring **AI/ML, OpenCV, Keras & Hugging Face**
-* ☁️ Experience with deploying projects using **Vercel & Render**
-* 📚 Always learning and improving my development skills
+<br/><br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=Sumit-1104&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 
-## 🛠️ Tech Stack
-
-### Programming
-
-`Python` `JavaScript` `SQL`
-
-### Backend
-
-`Django` `Django REST Framework` `REST API` `JWT Authentication`
-
-### Frontend
-
-`HTML` `CSS` `JavaScript` `Responsive UI`
-
-### Database
-
-`SQLite` `SQL`
-
-### Tools & Platforms
-
-`Git` `GitHub` `Postman` `VS Code` `Render` `Vercel`
-
-### Currently Exploring
-
-`AI/ML` `OpenCV` `Keras` `Hugging Face`
+</div>
 
 ---
 
-## 💼 What I Can Build
+## 🧑‍💻 About Me
 
-### 🐍 Django Web Applications
+I'm a **Python & Django Developer** passionate about building modern web applications, REST APIs and backend systems.
 
-* Custom Django applications
-* Authentication & authorization
-* Admin dashboards
-* CRUD systems
-* Database-driven applications
-* Role-based systems
-
-### 🔌 REST APIs
-
-* Django REST Framework APIs
-* JWT Authentication
-* User & role management
-* CRUD APIs
-* Third-party API integration
-* API testing with Postman
-
-### 🌐 Full-Stack Applications
-
-* Frontend + Backend integration
-* Responsive web applications
-* Database integration
-* Authentication systems
-* Deployment-ready applications
-
----
-
-## 🚀 Featured Projects
-
-### 1. 💼 Job Portal Backend
-
-A complete backend API for a job portal application.
-
-**Key Features**
-
-* User authentication
-* JWT-based authentication
-* Employer & candidate roles
-* Job creation & management
-* Job applications
-* Role-based permissions
-* REST API architecture
-
-**Tech:** `Python` `Django` `Django REST Framework` `JWT` `SQL`
-
-🔗 **Live API:**
-https://jobportalbackend-uypb.onrender.com
-
-🔗 **Source Code:**
-https://github.com/Sumit-1104/JobPortalBackend
-
----
-
-### 2. 🤖 DevPilotAI
-
-An AI-powered developer tool designed to analyze GitHub repositories and provide useful project insights and review information.
-
-**Key Features**
-
-* GitHub repository analysis
-* Repository information
-* README analysis
-* Source-code analysis
-* Developer-focused dashboard
-* GitHub API integration
-
-**Tech:** `Python` `Django` `GitHub API` `HTML` `CSS` `JavaScript`
-
-🔗 **Source Code:**
-https://github.com/Sumit-1104/DevPilotAI
-
----
-
-### 3. 🌐 Personal Portfolio
-
-My personal developer portfolio showcasing my skills, projects, experience, and services.
-
-🔗 **Live Portfolio:**
-https://my-portfolio-sumit-1104.vercel.app
-
-🔗 **Source Code:**
-https://github.com/Sumit-1104/my-portfolio
-
----
-
-## 🌎 Portfolio
-
-### 👉 Visit My Portfolio
-
-**Live Website:**
-https://my-portfolio-sumit-1104.vercel.app
-
-You'll find my:
-
-* 👨‍💻 Projects
-* 🛠️ Skills
-* 💼 Experience
-* 📄 Developer profile
-* 📫 Contact information
-
----
-
-## 💰 Freelance Services
-
-I'm available for freelance development work involving:
-
-* 🐍 Python Development
-* ⚡ Django Development
-* 🔌 Django REST API Development
-* 🌐 Full-Stack Web Development
-* 🔐 Authentication & Authorization
-* 🗄️ Database Integration
-* 🔗 API Integration
-* 🛠️ Bug Fixing & Feature Development
-
----
-
-## 📈 My Development Focus
+I focus on writing **clean, maintainable and scalable code** while creating applications that solve real-world problems.
 
 ```text
-Python & Django        ████████████████████
-REST API Development   ███████████████████░
-SQL & Databases        ██████████████████░░
-Web Development        ██████████████████░░
-Git & GitHub            ████████████████░░░░
-AI / ML                 ████████████░░░░░░░░
+💻 Backend Development       → Python • Django • DRF
+🔌 API Development           → REST API • JWT • Postman
+🗄️ Database                  → SQL • SQLite
+🌐 Full-Stack Development    → HTML • CSS • JavaScript
+🔧 Development Tools         → Git • GitHub • VS Code
+🤖 Exploring                 → AI/ML • OpenCV • Keras • Hugging Face
 ```
 
 ---
 
-## 🎯 Current Goals
+# ⚡ What I Do
 
-* 🚀 Build production-ready Django applications
-* 🔌 Improve REST API architecture skills
-* 🤖 Explore AI/ML integration with Python
-* 💼 Work with clients on real-world projects
-* 🌍 Grow as a professional Full-Stack Developer
-* 📚 Continuously learn modern development technologies
+<table>
+<tr>
+<td width="50%">
+
+### 🐍 Django Development
+
+* Custom Django applications
+* Authentication & authorization
+* CRUD systems
+* Role-based access control
+* Admin dashboards
+* Database-driven applications
+
+</td>
+
+<td width="50%">
+
+### 🔌 REST API Development
+
+* Django REST Framework
+* JWT Authentication
+* Secure APIs
+* CRUD APIs
+* API integrations
+* Postman testing
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Full-Stack Development
+
+* Responsive web applications
+* Frontend + Backend integration
+* Database integration
+* Authentication systems
+* Deployment-ready applications
+
+</td>
+
+<td width="50%">
+
+### 🚀 Project Development
+
+* Business applications
+* Job portals
+* Developer tools
+* Portfolio websites
+* API-based systems
+* Custom client solutions
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Let's Connect
+# 🛠️ Tech Stack
 
-If you're interested in working together, discussing a project, or simply connecting with me, feel free to reach out.
+### 💻 Languages
 
-### 🌐 Portfolio
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+</p>
 
-https://my-portfolio-sumit-1104.vercel.app
+### ⚙️ Backend & Frameworks
 
-### 💻 GitHub
+<p>
+<img src="https://skillicons.dev/icons?i=django" />
+<img src="https://img.shields.io/badge/Django_REST_Framework-red?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
-https://github.com/Sumit-1104
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=sqlite,mysql" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+</p>
+
+### 🤖 Currently Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=opencv" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
 
 ---
 
-## ⭐ Support
+# 🚀 Featured Projects
 
-If you find my projects useful or interesting, consider giving them a ⭐ on GitHub.
+## 💼 Job Portal Backend
 
-Thanks for visiting my profile! 🚀
+> A production-style REST API backend for a job portal application.
 
-**Let's build something amazing together.**
+### ✨ Highlights
+
+* 🔐 JWT Authentication
+* 👤 Role-based users
+* 💼 Employer & candidate workflows
+* 📋 Job creation & management
+* 📨 Job applications
+* 🛡️ Permission-based access
+* 🔌 RESTful API architecture
+* 🧪 API testing with Postman
+
+**Tech Stack**
+
+`Python` `Django` `Django REST Framework` `JWT` `SQL`
+
+**Live API:**
+👉 https://jobportalbackend-uypb.onrender.com
+
+**Source Code:**
+👉 https://github.com/Sumit-1104/JobPortalBackend
+
+---
+
+## 🤖 DevPilotAI
+
+> An intelligent developer-focused application for analyzing GitHub repositories and extracting useful project insights.
+
+### ✨ Highlights
+
+* 🔗 GitHub repository integration
+* 📊 Repository information analysis
+* 📖 README analysis
+* 🧩 Source-code analysis
+* 🖥️ Developer dashboard
+* 🔌 GitHub API integration
+
+**Tech Stack**
+
+`Python` `Django` `GitHub API` `HTML` `CSS` `JavaScript`
+
+**Source Code:**
+👉 https://github.com/Sumit-1104/DevPilotAI
+
+---
+
+## 🌐 Personal Portfolio
+
+> My personal developer portfolio showcasing my skills, projects, experience and services.
+
+### ✨ Built To Showcase
+
+* 👨‍💻 Developer Profile
+* 🛠️ Technical Skills
+* 🚀 Projects
+* 💼 Experience
+* 📫 Contact Information
+* 🌐 Freelance Services
+
+**Live Website**
+
+### 👉 https://my-portfolio-sumit-1104.vercel.app
+
+**Source Code**
+
+👉 https://github.com/Sumit-1104/my-portfolio
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sumit-1104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-1104&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sumit-1104&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 💼 Freelance Services
+
+Looking for a developer to build or improve your web application?
+
+### I can help with:
+
+| Service                       | What I Provide                         |
+| ----------------------------- | -------------------------------------- |
+| 🐍 **Python Development**     | Custom Python applications & solutions |
+| ⚡ **Django Development**      | Full Django web applications           |
+| 🔌 **REST API Development**   | Secure & scalable REST APIs            |
+| 🔐 **Authentication**         | JWT, login, signup & permissions       |
+| 🗄️ **Database Integration**  | SQL & application databases            |
+| 🌐 **Full-Stack Development** | Frontend + Backend applications        |
+| 🔗 **API Integration**        | Third-party API integration            |
+| 🛠️ **Bug Fixing**            | Debugging & feature improvements       |
+
+---
+
+# 🎯 Current Focus
+
+```text
+┌───────────────────────────────────────────────┐
+│                                               │
+│   🐍 Advanced Python & Django                 │
+│   🔌 REST API Architecture                    │
+│   🗄️ Database Design                          │
+│   🌐 Full-Stack Development                   │
+│   🤖 AI/ML Integration                        │
+│   ☁️ Deployment & Production Applications     │
+│                                               │
+└───────────────────────────────────────────────┘
+```
+
+---
+
+# 📚 Development Philosophy
+
+> **"Build it. Improve it. Ship it."**
+
+I believe in:
+
+* ✨ Writing clean and readable code
+* 🔐 Building secure applications
+* 📦 Creating reusable components
+* 🚀 Developing practical solutions
+* 📚 Learning continuously
+* 🤝 Building products that create real value
+
+---
+
+# 🌎 Let's Connect
+
+<div align="center">
+
+<a href="https://my-portfolio-sumit-1104.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/Sumit-1104">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+<br/><br/>
+
+### 💬 Open to
+
+**Freelance Projects · Python/Django Opportunities · Collaborations**
+
+<br/>
+
+⭐ **If you like my work, consider starring my repositories!**
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Thanks for visiting!
+
+**Made with ❤️ & Python**
+
+</div>
